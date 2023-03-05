@@ -4,9 +4,9 @@
 
 ## Preview
 
-![Screenshot](Kasper%20_Tamplate_Two.png)
+![Screenshot](Kasper_Tamplate_Two.png)
 
-You can see a live demo of the template [here](). 
+You can see a live demo of the template [here](https://hazemhussein14.github.io/Template-2/). 
 
 ## Tutorial
 
