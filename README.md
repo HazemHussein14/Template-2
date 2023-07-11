@@ -34,6 +34,3 @@ The `images` folder contains the images and video used in the template. You can 
 
 If you would like to contribute to the Kasper Template, you can fork the repository, make your changes, and submit a pull request.
 
-## License
-
-The Kasper Template is licensed under the MIT License. See the LICENSE file for more information.
